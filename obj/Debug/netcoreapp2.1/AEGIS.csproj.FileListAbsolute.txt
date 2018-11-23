@@ -1,0 +1,11 @@
+C:\Users\nj7\AEGIS\bin\Debug\netcoreapp2.1\AEGIS.deps.json
+C:\Users\nj7\AEGIS\bin\Debug\netcoreapp2.1\AEGIS.runtimeconfig.json
+C:\Users\nj7\AEGIS\bin\Debug\netcoreapp2.1\AEGIS.runtimeconfig.dev.json
+C:\Users\nj7\AEGIS\bin\Debug\netcoreapp2.1\AEGIS.dll
+C:\Users\nj7\AEGIS\bin\Debug\netcoreapp2.1\AEGIS.pdb
+C:\Users\nj7\AEGIS\obj\Debug\netcoreapp2.1\AEGIS.csprojAssemblyReference.cache
+C:\Users\nj7\AEGIS\obj\Debug\netcoreapp2.1\AEGIS.csproj.CoreCompileInputs.cache
+C:\Users\nj7\AEGIS\obj\Debug\netcoreapp2.1\AEGIS.AssemblyInfoInputs.cache
+C:\Users\nj7\AEGIS\obj\Debug\netcoreapp2.1\AEGIS.AssemblyInfo.cs
+C:\Users\nj7\AEGIS\obj\Debug\netcoreapp2.1\AEGIS.dll
+C:\Users\nj7\AEGIS\obj\Debug\netcoreapp2.1\AEGIS.pdb
